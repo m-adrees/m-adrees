@@ -33,8 +33,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fleek.co/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/171708767?s=200&v=4" alt="Fleek" width="40" height="40"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png" alt="Aws Amplify" width="40" height="40"/> </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=31085&format=png&color=000000" alt="Heroku" width="40" height="40"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.bluehost.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3769122?s=200&v=4" alt="Bluehost" width="40" height="40"/> </a>
@@ -53,6 +51,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" alt="html" width="40" height="40"/> </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
